@@ -10,4 +10,5 @@ Starter kit for running a telegram bot built with the python-telegram-bot librar
 
 ## BOT RUNNING ON OPENSHIFT 3
 [superCodingBot](https://www.github.com/Gotham13121997/superCodingBot)  
-[FB_TO_TG_GROUP_CONNECT](https://github.com/Gotham13121997/FB-TO-TG-GROUP-CONNECT/blob/master/app.py)  
+[FB_TO_TG_GROUP_CONNECT](https://github.com/Gotham13121997/FB-TO-TG-GROUP-CONNECT)  
+[HACKATHON BOT](https://github.com/Gotham13121997/HACKATHON-BOT)
